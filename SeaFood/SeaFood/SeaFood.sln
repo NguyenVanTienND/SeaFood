@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeaFood.Service", "SeaFood.Service\SeaFood.Service.csproj", "{B6C8361A-FAFA-4291-9635-FF665D442ECF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeaFood.Core", "SeaFood.Core\SeaFood.Core.csproj", "{0135EEF2-8646-4DD4-BB1B-E69CA484D38D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeaFood.Data", "SeaFood.Data\SeaFood.Data.csproj", "{803D0691-FB21-47C4-9DB8-8B8BC6E915B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeaFood", "SeaFood\SeaFood.csproj", "{53FF6A93-09EB-4CC2-B84E-6AEED693B88D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6C8361A-FAFA-4291-9635-FF665D442ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C8361A-FAFA-4291-9635-FF665D442ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C8361A-FAFA-4291-9635-FF665D442ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C8361A-FAFA-4291-9635-FF665D442ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0135EEF2-8646-4DD4-BB1B-E69CA484D38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0135EEF2-8646-4DD4-BB1B-E69CA484D38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0135EEF2-8646-4DD4-BB1B-E69CA484D38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0135EEF2-8646-4DD4-BB1B-E69CA484D38D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803D0691-FB21-47C4-9DB8-8B8BC6E915B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803D0691-FB21-47C4-9DB8-8B8BC6E915B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803D0691-FB21-47C4-9DB8-8B8BC6E915B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803D0691-FB21-47C4-9DB8-8B8BC6E915B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53FF6A93-09EB-4CC2-B84E-6AEED693B88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FF6A93-09EB-4CC2-B84E-6AEED693B88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FF6A93-09EB-4CC2-B84E-6AEED693B88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FF6A93-09EB-4CC2-B84E-6AEED693B88D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {895588AA-50AE-414F-9937-52B38D3458A5}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/hungnx1801970819
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SeaFood.Core\\SeaFood.Core.csproj
+		SccProjectName1 = SeaFood.Core
+		SccLocalPath1 = SeaFood.Core
+		SccProjectUniqueName2 = SeaFood.Data\\SeaFood.Data.csproj
+		SccProjectName2 = SeaFood.Data
+		SccLocalPath2 = SeaFood.Data
+		SccProjectUniqueName3 = SeaFood.Service\\SeaFood.Service.csproj
+		SccProjectName3 = SeaFood.Service
+		SccLocalPath3 = SeaFood.Service
+		SccProjectUniqueName4 = SeaFood\\SeaFood.csproj
+		SccProjectName4 = SeaFood
+		SccLocalPath4 = SeaFood
+	EndGlobalSection
+EndGlobal
