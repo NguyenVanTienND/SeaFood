@@ -1,0 +1,5 @@
+C:\HungNX\SeaFood\SeaFood\SeaFood.Service\bin\Debug\SeaFood.Service.dll
+C:\HungNX\SeaFood\SeaFood\SeaFood.Service\bin\Debug\SeaFood.Service.pdb
+C:\HungNX\SeaFood\SeaFood\SeaFood.Service\obj\Debug\SeaFood.Service.csproj.CoreCompileInputs.cache
+C:\HungNX\SeaFood\SeaFood\SeaFood.Service\obj\Debug\SeaFood.Service.dll
+C:\HungNX\SeaFood\SeaFood\SeaFood.Service\obj\Debug\SeaFood.Service.pdb
