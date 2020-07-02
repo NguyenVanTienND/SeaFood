@@ -3,3 +3,9 @@ C:\HungNX\SeaFood\SeaFood\SeaFood.Core\bin\Debug\SeaFood.Core.pdb
 C:\HungNX\SeaFood\SeaFood\SeaFood.Core\obj\Debug\SeaFood.Core.csproj.CoreCompileInputs.cache
 C:\HungNX\SeaFood\SeaFood\SeaFood.Core\obj\Debug\SeaFood.Core.dll
 C:\HungNX\SeaFood\SeaFood\SeaFood.Core\obj\Debug\SeaFood.Core.pdb
+C:\HungNX\Test\SeaFood\SeaFood\SeaFood\SeaFood.Core\bin\Debug\SeaFood.Core.dll
+C:\HungNX\Test\SeaFood\SeaFood\SeaFood\SeaFood.Core\bin\Debug\SeaFood.Core.pdb
+C:\HungNX\Test\SeaFood\SeaFood\SeaFood\SeaFood.Core\obj\Debug\SeaFood.Core.csprojAssemblyReference.cache
+C:\HungNX\Test\SeaFood\SeaFood\SeaFood\SeaFood.Core\obj\Debug\SeaFood.Core.csproj.CoreCompileInputs.cache
+C:\HungNX\Test\SeaFood\SeaFood\SeaFood\SeaFood.Core\obj\Debug\SeaFood.Core.dll
+C:\HungNX\Test\SeaFood\SeaFood\SeaFood\SeaFood.Core\obj\Debug\SeaFood.Core.pdb
